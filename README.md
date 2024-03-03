@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm a curious developer that strives to learn more every day.
+I'm just a curious developer that enjoy coding.
 
-- 🌱 I’m ~currently~ constantly learning more! In particular, I'm trying to learn more about
+- 🌱 I’m ~currently~ constantly learning more! In particular, I'm focusing on trying to learn more about
   the Rust programming langugage.
 - 💬 Ask me about Go, Rust, Elixir or anything.
 - 📫 How to reach me: jon.lundholm@gmail.com
-- ⚡ Fun fact: I love to code :)
 
 ## Projects
 I have some projects that I have coded for fun or profit,
@@ -17,4 +16,4 @@ but some I actually use daily.
 - [snippetls](https://github.com/lunjon/snippetls): a language server that implements snippet support that I use in the [Helix](https://github.com/helix-editor/helix) editor
 - [dotfiles](https://github.com/lunjon/dotfiles): a CLI to track configuration files
 - [blast](https://github.com/lunjon/blast): load testing framework written in Elixir
-- [dev-tool-installer](https://github.com/lunjon/dev-tool-installer): CLI used to install developer tools such, e.g language servers and linter
+- [dev-tool-installer](https://github.com/lunjon/dev-tool-installer): CLI used to install developer tools such, e.g language servers and linters
