@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hi 👋
 
 I'm just a curious developer that enjoy coding.
 
-- 🌱 I’m ~currently~ constantly learning more! In particular, I'm focusing on trying to learn more about
-  the Rust programming langugage.
-- 💬 Ask me about Go, Rust, Elixir or anything.
+- 🌱 I’m ~currently~ constantly learning. I guess we all do.
+- 💬 I'm mostly into Go and Rust, but enjoy coding in other languages as well.
 - 📫 How to reach me: jon.lundholm@gmail.com
 
 ## Projects
 I have some projects that I have coded for fun or profit,
-but some I actually use daily.
+and some I actually use daily.
 
 - [http](https://github.com/lunjon/http): CLI for making HTTP requests, mainly as a project to learn Go
 - [journal](https://github.com/lunjon/journal): a simple CLI tool for managing journals
